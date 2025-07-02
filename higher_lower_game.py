@@ -1,4 +1,4 @@
-#project-27
+#project
 #higher lower game
 
 import random
